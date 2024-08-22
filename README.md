@@ -12,6 +12,6 @@
 <details>
 <summary><strong>2023</strong></summary>
 
-- **[マーケティング支援サービス](https://github.com/username/data-science-toolkit)**: [かっこ株式会社](https://cacco.co.jp/)での長期インターンにて、マーケティング支援を目的としたWebアプリケーションを開発
+- **[マーケティング支援サービス](https://prtimes.jp/main/html/rd/p/000000133.000009799.html)**: [かっこ株式会社](https://cacco.co.jp/)での長期インターンにて、マーケティング支援を目的としたWebアプリケーションを開発
 
 </details>
