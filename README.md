@@ -1,4 +1,4 @@
-## Development Experiences
+## 開発経験
 
 <details>
 <summary><strong>2024</strong></summary>
